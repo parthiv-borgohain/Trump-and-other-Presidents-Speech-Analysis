@@ -10,7 +10,7 @@ The project consisted of several steps, including:
 
 1. Performing a SpaCy NLP similarity analysis using large pre-trained word vectors to compare former president Trump’s speeches with speeches from all other presidents
 
-2. Performing Lift Analysis of recent Presidents to compare with Trump forcommon talking points used like gas, immigration, election, crime, glory
+2. Performing Lift Analysis of recent Presidents to compare with Trump for common talking points used like gas, immigration, election, crime, glory
 
 3. Polarity and Subjectivity analysis of speeches to validate whether Trump is actually an outlier compared to other presidents
 
